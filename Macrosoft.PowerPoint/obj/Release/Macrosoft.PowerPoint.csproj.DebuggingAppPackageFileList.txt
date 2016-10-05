@@ -1,0 +1,2 @@
+bin\Release\OfficeAppManifests\Macrosoft.PowerPointManifest.xml
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\Macrosoft.PowerPoint.debugapp

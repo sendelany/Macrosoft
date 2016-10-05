@@ -1,0 +1,12 @@
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\csc.exe
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\System.Collections.Immutable.dll
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\System.Reflection.Metadata.dll
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\vbc.exe
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\VBCSCompiler.exe
+C:\Users\Erance\Documents\GitHub\Macrosoft\Macrosoft.PowerPoint\bin\Release\roslyn\VBCSCompiler.exe.config

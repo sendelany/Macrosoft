@@ -1,0 +1,7 @@
+False
+0d9b65c7-cd4b-4b8a-a17f-13dcdf9a460fc0bf01ab-fb48-4d69-92cb-1a3fa6e873a6
+{342b6b5c-6510-482c-a184-26261f4ff2d3}{74559cc6-ee87-4422-b11d-ba53a55a52b0}
+{7fe7370b-a336-4292-a1ed-d1c304a537ac}
+1.0.0.0
+Macrosoft.PowerPoint
+_layouts/15/
