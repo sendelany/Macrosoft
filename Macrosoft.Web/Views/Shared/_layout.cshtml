@@ -14,12 +14,18 @@
     <title>Macrosoft</title>
 </head>
 <body>
-    <div> 
-
+    <nav>
+        <div class="nav-wrapper blue-grey lighten-1">
+            <a href="#" class="brand-logo"><i class="material-icons">bubble_chart</i>Macrosoft</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="~/Home/Index">Add-Ins</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div>
         @RenderBody()
-
     </div>
-
+    <script src="~/js/jquery-3.1.1.min.js"></script>
     <script src="~/js/materialize.min.js"></script>
 </body>
 </html>
