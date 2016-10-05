@@ -89,7 +89,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\materialize.css" />
+    <Content Include="css\materialize.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="js\materialize.js" />
+    <Content Include="js\materialize.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -117,8 +121,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="css\" />
-    <Folder Include="js\" />
     <Folder Include="Views\Item\" />
   </ItemGroup>
   <PropertyGroup>
